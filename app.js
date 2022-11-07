@@ -630,6 +630,36 @@ const app = {
       path: "./assets/music/chi_la_muon_noi.mp3",
       image: "./assets/img/100.jpg",
     },
+    {
+      name: "Crying Over You",
+      singer: "JustaTee ft. Binz",
+      path: "./assets/music/crying_over_you.mp3",
+      image: "./assets/img/101.jpg",
+    },
+    {
+      name: "Bâng Khuâng",
+      singer: "JustaTee",
+      path: "./assets/music/buang_khuang.mp3",
+      image: "./assets/img/102.jpg",
+    },
+    {
+      name: "Thôi Hẹn Em",
+      singer: "Madihu",
+      path: "./assets/music/thoi_hen_em.mp3",
+      image: "./assets/img/103.jpg",
+    },
+    {
+      name: "Vì Anh Đâu Có Biết",
+      singer: "Madihu ft. Vũ.",
+      path: "./assets/music/vi_anh_dau_co_biet.mp3",
+      image: "./assets/img/104.jpg",
+    },
+    {
+      name: "Có Em",
+      singer: "Madihu",
+      path: "./assets/music/co_em.mp3",
+      image: "./assets/img/105.jpg",
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
