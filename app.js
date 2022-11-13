@@ -144,7 +144,7 @@ const app = {
       image: "./assets/img/19.jpg",
     },
     {
-      name: "vaicaunoicokhien...",
+      name: "Vài câu nói có khiến người thay đổi",
       singer: "GREY D x tlinh",
       path: "./assets/music/vai_cau_noi_co_khien_nguoi_thay_doi.mp3",
       image: "./assets/img/20.jpg",
@@ -660,6 +660,19 @@ const app = {
       path: "./assets/music/co_em.mp3",
       image: "./assets/img/105.jpg",
     },
+    {
+      name: "MAH BOO",
+      singer: "PHẠM VIỆT THẮNG",
+      path: "./assets/music/mah_boo.mp3",
+      image: "./assets/img/106.jpg",
+    },
+    {
+      name: "Cứ nói yêu lần này",
+      singer: "LiL Z Poet",
+      path: "./assets/music/cu_noi_yeu_lan_nay.mp3",
+      image: "./assets/img/107.jpg",
+    },
+
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
